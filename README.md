@@ -2,7 +2,7 @@
 
 > **2CPU & 7GB RAM**
 
-> ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/c9ffin/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
+> ## [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/supunsathsara/RDP_COFFIN/blob/main/.github/workflows/coffin.yml)
 
 ### Upon contacting the author, I made sure that I could modify the project. 
 
@@ -14,7 +14,4 @@
 * Press Add secret
 * Go to Action> RDP_COFFIN> Run workflow
 * Reload the page and press RDP_COFFIN> build
-* Press the down arrow on Connect To Your RPD to get IP, User, Password.
 
-## Original Author:
-> Made by c9ffin
